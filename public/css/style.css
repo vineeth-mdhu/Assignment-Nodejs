@@ -1,0 +1,34 @@
+ body {
+    background-color:rgb(36, 36, 48);
+    font-weight: 300;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+.header-image{
+    width: 100%;
+}
+
+table{
+    width:100%;
+    padding-top: 10px;
+    border-collapse: collapse;
+}
+
+th{
+    color: rgb(143, 143, 143);
+    background-color: rgb(36, 36, 48);
+    height: 40px;
+    border-bottom: 3px solid rgb(36, 36, 48);
+}
+
+tr{
+    background-color: rgb(69, 79, 88);
+    color: white;
+    height: 50px;
+    
+    border-bottom: 5px solid rgb(36, 36, 48);
+}
+td{
+    
+    text-align: center;
+}
